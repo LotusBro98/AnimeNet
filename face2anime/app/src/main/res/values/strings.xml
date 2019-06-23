@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">face2anime</string>
+    <string name="title_photo">Take Photo</string>
+    <string name="title_edit">Edit</string>
+    <string name="title_anime">Anime</string>
+
+    <string name="title_head">Face</string>
+    <string name="title_eyes">Eyes</string>
+    <string name="title_hair">Hair</string>
+
+    <string name="title_draw">Draw</string>
+    <string name="title_erase">Erase</string>
+    <string name="title_pick_color">Change color</string>
+
+    <array name="image_upload_methods">
+        <item>Take photo</item>
+        <item>Select from Gallery</item>
+    </array>
+</resources>

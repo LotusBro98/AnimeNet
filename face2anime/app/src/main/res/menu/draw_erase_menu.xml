@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_draw"
+        android:icon="@drawable/ic_brush_black_24dp"
+        android:title="@string/title_draw" />
+
+    <item
+        android:id="@+id/navigation_erase"
+        android:icon="@drawable/ic_erase"
+        android:title="@string/title_erase" />
+
+    <item
+        android:id="@+id/navigation_pick_color"
+        android:icon="@drawable/ic_format_color_fill_black_24dp"
+        android:title="@string/title_pick_color" />
+</menu>
